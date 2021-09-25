@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Mim Rumman",
+    "age": 28,
+    "designation": "Network Engineer",
+    "country": "Bangladesh",
+    "salary": 40000,
+    "img": "https://images.pexels.com/photos/9576997/pexels-photo-9576997.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+  },
+  {
+    "name": "Mahabub Azam",
+    "age": 31,
+    "designation": "Front End Developer",
+    "country": "Bangladesh",
+    "salary": 50000,
+    "img": "https://images.pexels.com/photos/5528835/pexels-photo-5528835.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "name": "Sadia Akter",
+    "age": 30,
+    "designation": "Graphics Designer",
+    "country": "Bangladesh",
+    "salary": 350000,
+    "img": "https://images.pexels.com/photos/2748239/pexels-photo-2748239.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "name": "Maliha Sultana",
+    "age": 32,
+    "designation": "UX/UI Designer",
+    "country": "Bangladesh",
+    "salary": 480000,
+    "img": "https://images.pexels.com/photos/3042160/pexels-photo-3042160.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "name": "Mushfiqur Rahman",
+    "age": 35,
+    "designation": "Database Adminstrator",
+    "country": "Bangladesh",
+    "salary": 550000,
+    "img": "https://images.pexels.com/photos/749091/pexels-photo-749091.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "name": "Sabrina Parvin",
+    "age": 36,
+    "designation": "Content Writter",
+    "country": "Bangladesh",
+    "salary": 30000,
+    "img": "https://images.pexels.com/photos/3936894/pexels-photo-3936894.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "name": "Ashiqur Rahman",
+    "age": 38,
+    "designation": "Back End Developer",
+    "country": "Bangladesh",
+    "salary": 60000,
+    "img": "https://images.pexels.com/photos/428328/pexels-photo-428328.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "name": "Eftiaz Hossain",
+    "age": 33,
+    "designation": "Digital Marketer",
+    "country": "Bangladesh",
+    "salary": 460000,
+    "img": "https://images.pexels.com/photos/3754833/pexels-photo-3754833.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "name": "Nawshad Akram",
+    "age": 39,
+    "designation": "Apps Developer",
+    "country": "Bangladesh",
+    "salary": 660000,
+    "img": "https://images.pexels.com/photos/7562076/pexels-photo-7562076.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "name": "Zahid Hasan",
+    "age": 33,
+    "designation": "SEO Specialist",
+    "country": "Bangladesh",
+    "salary": 460000,
+    "img": "https://images.pexels.com/photos/5042302/pexels-photo-5042302.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "name": "Al-amin Hossain",
+    "age": 43,
+    "designation": "Sr. Fullstack Developer",
+    "country": "Bangladesh",
+    "salary": 860000,
+    "img": "https://images.pexels.com/photos/4061541/pexels-photo-4061541.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "name": "K M Foysal",
+    "age": 52,
+    "designation": "Project Manager",
+    "country": "Bangladesh",
+    "salary": 150000,
+    "img": "https://images.pexels.com/photos/4052800/pexels-photo-4052800.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  }
+]
