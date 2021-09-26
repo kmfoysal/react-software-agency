@@ -4,8 +4,6 @@ Live Website Link : [Dream Software Agency](https://dream-software-agency.netlif
 
 ## Features
 
-<hr>
-
 <ul>
 <li>Make Software Agency</li>
 <li>Hired Developer</li>
