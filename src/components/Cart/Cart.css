@@ -10,3 +10,8 @@
   margin: 0px;
   padding-bottom: 10px;
 }
+
+.cart h4 {
+  display: block;
+  margin-right: 80px;
+}

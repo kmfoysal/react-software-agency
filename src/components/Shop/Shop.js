@@ -7,6 +7,7 @@ const Shop = () => {
 
     const [developers, setDevelopers] = useState([]);
     const [cart, setCart] = useState([]);
+    const [singleDevelopers, setSingleDevelopers] = useState([]);
 
 
     useEffect(() => {
@@ -19,6 +20,8 @@ const Shop = () => {
     const handleAddToCart = (developer) => {
         const newCart = [...cart, developer];
         setCart(newCart);
+        const singleDev = [...singleDevelopers, developer];
+        setSingleDevelopers(singleDev);
     }
 
 
@@ -35,7 +38,7 @@ const Shop = () => {
                 }
             </div>
             <div className="cart-container">
-                <Cart cart={cart}></Cart>
+                <Cart cart={cart} singleDeveloper={singleDevelopers}></Cart>
             </div>
         </div>
         </div>
